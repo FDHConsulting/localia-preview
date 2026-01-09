@@ -3,7 +3,7 @@ title: "CV de Francis De Hertogh"
 description: "Version complète et détaillée du CV en format Markdown."
 creation_date: "2025-01-29"
 status: "Complet"
-version:"05"
+version: "05"
 ---
 # Francis De Hertogh
 
